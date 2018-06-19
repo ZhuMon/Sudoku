@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="standard">standard.png</file>
+	<file alias="custom">byOwn.png</file>
+	<file alias="setting">setting.png</file>
+	<file alias="pen">pen.jpg</file>
+    </qresource>
+</RCC>
